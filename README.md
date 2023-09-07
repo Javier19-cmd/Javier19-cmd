@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola 👋, mi nombre es Javier Sebastián Valle Balsells. Soy un estudiante de Ingeniería en Ciencias de la Computación y Teconlogías de la Información en la Universidad del Valle de Guatemala. 
 
 <!--
 **Javier19-cmd/Javier19-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
