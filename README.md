@@ -3,6 +3,23 @@
 
 - Me encuentro en mis últimos años de la ingeniería y me gusta aplicar mis conocimientos en el campo del Data Science y en todo lo relacionado al Business Intelligence. 
 
+Actualmente domino estos lenguajes: 
+
+- Python
+- Java
+- Javascript (junto a CSS, HTML y el framework de React)
+- C
+- C++
+- C#
+- PHP
+- Visual Basics
+- R
+
+Base de Datos: 
+- Postgres
+- MongoDB
+- Cypher
+
 <!--
 **Javier19-cmd/Javier19-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
