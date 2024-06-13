@@ -23,9 +23,6 @@ Base de Datos:
 
 ### Proyectos Destacados
 
-#### Next Marvel Movie
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Javier19-cmd&repo=next-marvel-movie&theme=dracula)](https://github.com/Javier19-cmd/next-marvel-movie)
-
 #### Gestor de Gastos
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Javier19-cmd&repo=gestor-gastos&theme=dracula)](https://github.com/Javier19-cmd/gestor-gastos)
 
