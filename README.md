@@ -31,16 +31,14 @@ Soy un estudiante de Ingeniería en Ciencias de la Computación y Tecnologías d
 #### Generador de Citas
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Javier19-cmd&repo=quotegenerator&theme=dracula)](https://github.com/Javier19-cmd/quotegenerator)
 
-
 ### 📫 Conéctate conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier-blue)]([https://www.linkedin.com/in/javier19-cmd/](https://www.linkedin.com/in/javier-sebasti%C3%A1n-valle-balsells-0926a41ab/))
-[![Twitter](https://img.shields.io/twitter/follow/Javier19_cmd?style=social)]([https://twitter.com/Javier19_cmd](https://x.com/javiervallebs))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier-blue)](https://www.linkedin.com/in/javier-sebasti%C3%A1n-valle-balsells-0926a41ab/)
+[![Twitter](https://img.shields.io/twitter/follow/Javier19_cmd?style=social)](https://x.com/javiervallebs)
 
 ---
 
 Gracias por visitar mi perfil, y no dudes en contactarme si tienes alguna pregunta o colaboración en mente.
-
 
 <!--
 **Javier19-cmd/Javier19-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
