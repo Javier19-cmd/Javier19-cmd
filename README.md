@@ -43,12 +43,6 @@ Soy un estudiante de Ingeniería en Ciencias de la Computación y Tecnologías d
 
 ---
 
-### ¿Qué estoy haciendo ahora?
-
-Actualmente, estoy trabajando en un proyecto de Tic Tac Toe utilizando técnicas avanzadas de IA y Machine Learning para mejorar la experiencia del usuario.
-
----
-
 Gracias por visitar mi perfil, y no dudes en contactarme si tienes alguna pregunta o colaboración en mente.
 
 
