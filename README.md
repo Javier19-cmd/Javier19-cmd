@@ -31,6 +31,15 @@ Soy un estudiante de Ingeniería en Ciencias de la Computación y Tecnologías d
 #### Generador de Citas
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Javier19-cmd&repo=quotegenerator&theme=dracula)](https://github.com/Javier19-cmd/quotegenerator)
 
+#### Contacto App
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Javier19-cmd&repo=contactoApp&theme=dracula)](https://github.com/Javier19-cmd/contactoApp)
+
+#### Memory Game
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Javier19-cmd&repo=memory-game&theme=dracula)](https://github.com/Javier19-cmd/memory-game)
+
+#### Blog Fotos
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Javier19-cmd&repo=blog-fotos&theme=dracula)](https://github.com/Javier19-cmd/blog-fotos)
+
 ### 📫 Conéctate conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier-blue)](https://www.linkedin.com/in/javier-sebasti%C3%A1n-valle-balsells-0926a41ab/)
