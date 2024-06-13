@@ -16,6 +16,10 @@ Base de Datos:
 
 ![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javier19-cmd&show_icons=true&theme=dracula)
 
+### Estadísticas de visitas por país
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Javier19-cmd.visitor-badge&left_text=Visitas%20por%20pa%C3%ADs)
+
 ### Conéctate conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier-blue)](https://www.linkedin.com/in/javier19-cmd/)
@@ -31,6 +35,7 @@ Base de Datos:
 
 #### Generador de Citas
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Javier19-cmd&repo=quotegenerator&theme=dracula)](https://github.com/Javier19-cmd/quotegenerator)
+
 
 
 <!--
