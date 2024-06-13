@@ -1,17 +1,40 @@
-### Hola 👋, mi nombre es Javier Sebastián Valle Balsells. Soy un estudiante de Ingeniería en Ciencias de la Computación y Teconlogías de la Información en la Universidad del Valle de Guatemala. 
+### Hola 👋, mi nombre es Javier Sebastián Valle Balsells. Soy un estudiante de Ingeniería en Ciencias de la Computación y Tecnologías de la Información en la Universidad del Valle de Guatemala.
 
+Actualmente domino estos lenguajes:
 
-- Me encuentro en mis últimos años de la ingeniería y me gusta aplicar mis conocimientos en el campo del Data Science y en todo lo relacionado al Business Intelligence. 
-
-Actualmente domino estos lenguajes: 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javier19-cmd&layout=compact&langs_count=6&theme=dracula)
 
 - Python
-- Javascript (junto a CSS, HTML y el framework de React)
-- PHP
+- JavaScript (junto a CSS, HTML y el framework de React)
 
-Base de Datos: 
+Base de Datos:
+
 - PostgreSQL
 - MongoDB
+
+### Estadísticas de GitHub
+
+![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javier19-cmd&show_icons=true&theme=dracula)
+
+### Conéctate conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier-blue)](https://www.linkedin.com/in/javier19-cmd/)
+[![Twitter](https://img.shields.io/twitter/follow/Javier19_cmd?style=social)](https://twitter.com/Javier19_cmd)
+
+### Proyectos Destacados
+
+#### Next Marvel Movie
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Javier19-cmd&repo=next-marvel-movie&theme=dracula)](https://github.com/Javier19-cmd/next-marvel-movie)
+
+#### Gestor de Gastos
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Javier19-cmd&repo=gestor-gastos&theme=dracula)](https://github.com/Javier19-cmd/gestor-gastos)
+
+#### Tic Tac Toe
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Javier19-cmd&repo=tictactoe&theme=dracula)](https://github.com/Javier19-cmd/tictactoe)
+
+#### Generador de Citas
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Javier19-cmd&repo=quotegenerator&theme=dracula)](https://github.com/Javier19-cmd/quotegenerator)
+
 
 <!--
 **Javier19-cmd/Javier19-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
