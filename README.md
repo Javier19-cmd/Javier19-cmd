@@ -20,10 +20,6 @@ Soy un estudiante de Ingeniería en Ciencias de la Computación y Tecnologías d
 
 ![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javier19-cmd&show_icons=true&theme=dracula)
 
-### 🌍 Estadísticas de visitas por país
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Javier19-cmd.visitor-badge&left_text=Visitas%20por%20pa%C3%ADs)
-
 ### 🚀 Proyectos Destacados
 
 #### Gestor de Gastos
